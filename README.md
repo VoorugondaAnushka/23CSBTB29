@@ -5,4 +5,4 @@
    
    (C).[https://github.com/VoorugondaAnushka/23CSBTB29/blob/main/part_3.ipynb]
 
-2.[https://colab.research.google.com/drive/1FG5GIt0I2v4PdPbJ7-RYARZ-YXdGPNWY#scrollTo=Dm_vPLxu0LnH]
+2.[https://github.com/VoorugondaAnushka/23CSBTB29/blob/main/Assignment_2.ipynb]
