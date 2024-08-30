@@ -6,3 +6,5 @@
    (C).[https://github.com/VoorugondaAnushka/23CSBTB29/blob/main/part_3.ipynb]
 
 2.[https://github.com/VoorugondaAnushka/23CSBTB29/blob/main/Assignment_2.ipynb]
+
+3.[https://github.com/VoorugondaAnushka/23CSBTB29/blob/main/Assignment_3.ipynb]
