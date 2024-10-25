@@ -14,3 +14,5 @@
 5.[https://github.com/VoorugondaAnushka/23CSBTB29/blob/main/Assignment5.ipynb]
 
 6.[https://github.com/VoorugondaAnushka/23CSBTB29/blob/main/Assignment_6.ipynb]
+
+7.[https://github.com/VoorugondaAnushka/23CSBTB29/blob/main/SVM.ipynb]
