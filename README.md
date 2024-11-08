@@ -15,7 +15,7 @@
 
 6.[https://github.com/VoorugondaAnushka/23CSBTB29/blob/main/Assignment_6.ipynb]
 
-7.[https://github.com/VoorugondaAnushka/23CSBTB29/blob/main/SVM.ipynb]
+7.[https://github.com/VoorugondaAnushka/23CSBTB29/blob/main/Assignment7.ipynb]
 
 8.[https://github.com/VoorugondaAnushka/23CSBTB29/blob/main/Descision_Tree.ipynb]
 
