@@ -18,3 +18,7 @@
 7.[https://github.com/VoorugondaAnushka/23CSBTB29/blob/main/SVM.ipynb]
 
 8.[https://github.com/VoorugondaAnushka/23CSBTB29/blob/main/Descision_Tree.ipynb]
+
+
+
+11.[https://github.com/VoorugondaAnushka/23CSBTB29/blob/main/LabExam.ipynb]
