@@ -21,4 +21,6 @@
 
 9.[https://github.com/VoorugondaAnushka/23CSBTB29/blob/main/Assignment9.ipynb]
 
-10.[https://github.com/VoorugondaAnushka/23CSBTB29/blob/main/LabExam.ipynb]
+10.[https://github.com/VoorugondaAnushka/23CSBTB29/blob/main/Assignment_10.ipynb]
+
+LAB EXAM -[https://github.com/VoorugondaAnushka/23CSBTB29/blob/main/LabExam.ipynb]
